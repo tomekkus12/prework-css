@@ -1,0 +1,27 @@
+body {
+    background-color: #f5f5dd;
+}
+
+div {
+    width: 120px;
+    height: 120px;
+    margin: 10px auto;
+
+}
+
+#numer-1 {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+#numer-2 {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+#numer-3 {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+#numer-4 {
+    background-color: rgba(0, 0, 0, 0.1);
+}

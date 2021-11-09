@@ -1,0 +1,43 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    background-color: burlywood;
+}
+
+h3 {
+    background-color: cadetblue;
+}
+
+p {
+    background-color: chartreuse;
+}
+
+ol {
+    background-color: white;
+}
+
+li:nth-child(1) {
+    color: red;
+}
+
+
+li:nth-child(2) {
+    color: yellow;
+}
+
+
+li:nth-child(3) {
+    color: cyan;
+}
+
+
+li:nth-child(4) {
+    color: brown;
+}
+
+
+li:nth-child(5) {
+    color: royalblue;
+}
